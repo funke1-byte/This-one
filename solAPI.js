@@ -1,0 +1,1 @@
+Sol's soul logic and memory functions
